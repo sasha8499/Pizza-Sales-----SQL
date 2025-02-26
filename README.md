@@ -54,42 +54,7 @@ Entity-Relationship (ER) connections:
 
 ---
 
-## 📂 **Project Structure**
-```
-📦 pizza-sales-sql-analysis
- ┣ 📜 pizza_sales_queries.sql       # All SQL queries used for analysis
- ┣ 📊 Pizza_Sales_Analysis_PPT.pdf   # PowerPoint presentation with insights
- ┗ 📄 README.md                      # Project documentation (this file)
-```
-
 ---
-
-## 💬 **How to Use**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/pizza-sales-sql-analysis.git
-   ```
-2. Open `pizza_sales_queries.sql` in any SQL IDE (MySQL Workbench, pgAdmin, etc.).
-3. Run queries step by step to explore the analysis results.
-
----
-
-## 📈 **Insights Presentation**
-The accompanying PowerPoint presentation provides:
-- Visual graphs of revenue trends
-- Key takeaways from SQL analysis
-- Business recommendations based on data insights
-
----
-
-## 💡 **Business Recommendations**
-- Introduce **combo offers** with frequently paired pizzas.
-- Launch **weekend deals** targeting peak sales on Fridays.
-- Focus marketing on **chicken-based pizzas** due to high revenue contribution.
-- Offer **family-sized promotions** to leverage the popularity of large pizzas.
-
----
-
 ## 🙌 **Author**
 **MOHD. KHAJA PASHA**  
 Data Analyst | SQL Enthusiast | Data Storyteller
