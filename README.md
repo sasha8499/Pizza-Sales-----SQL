@@ -22,11 +22,8 @@ The dataset consists of four interconnected tables:
 4. **pizzas:** Contains `pizza_id`, `pizza_type_id`, `size`, `price`
 
 Entity-Relationship (ER) connections:
-
 ![Screenshot 2025-02-26 160431](https://github.com/user-attachments/assets/aada4436-c3d2-48a5-9ef6-c749d7e38c64)
-- `orders` ↔ `order_details` (order_id)
-- `pizzas` ↔ `order_details` (pizza_id)
-- `pizza_types` ↔ `pizzas` (pizza_type_id)
+
 
 ---
 
