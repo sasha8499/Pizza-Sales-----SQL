@@ -59,7 +59,5 @@ Entity-Relationship (ER) connections:
 **MOHD. KHAJA PASHA**  
 Data Analyst | SQL Enthusiast | Data Storyteller
 
-🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/)*  
+🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/)*  
 ✨ *“A taste for pizza, a hunger for insights.”* 🍕
-
-🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/)* 
