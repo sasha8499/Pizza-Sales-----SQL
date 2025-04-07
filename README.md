@@ -61,3 +61,5 @@ Data Analyst | SQL Enthusiast | Data Storyteller
 
 🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/)*  
 ✨ *“A taste for pizza, a hunger for insights.”* 🍕
+
+🔗 *Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-khaja-pasha/)* 
